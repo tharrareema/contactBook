@@ -9,3 +9,5 @@ def multipleclue(n):
 strresult = multipleclue(random.randrange(0,10))
 print(strresult)
 
+print("done")
+
