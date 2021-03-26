@@ -1,5 +1,7 @@
 <b> Language Used : </b> Python
 
+<b> Tools Used :  </b> JetBrains Pycharm as IDE ,  PostMan Tool for Testing purposes , Mongo Compass for DB reference
+
 <b> Dependencies Used : </b> FLASK, CORS, PYMONGO
 --------------------------------------------------------------------
 
@@ -42,6 +44,7 @@ CORS provides a mechanism for servers to tell browsers how they should be access
 `@cross_origin(supports_credentials=True)` </h5>
 
 --------------------------------------------------------------------
+
 
 
 <b> GET CONTACT DATA : </b> 
